@@ -1,5 +1,0 @@
-float('1')  # 1.0
-int('2.5')  # ValueError: invalid literal for int() with base 10: '2.5'
-bool(1)     # True
-bool('')    # False
-bool(0)     # False
